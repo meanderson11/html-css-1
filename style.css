@@ -1,0 +1,58 @@
+body {
+    background-image: url("pictures/pheasant.jpg");
+    background-repeat: no-repeat;
+    background-size: none;
+    background-color: rgb(8, 99, 61);
+    color: white;
+    padding: 20px;
+    margin: auto;
+    width: 1000px; 
+    border-style: solid;
+    border-width: 1px; 
+    border-style: solid;
+    border-color: #9bcfc0;
+    opacity: .9;
+}
+
+h1 {
+    font-size: 90px;
+    font-family: 'Hurricane', cursive;
+    text-align: center;
+    background-color: #1fa854;
+    border-radius: 50%;
+    
+}
+
+div {
+    background-color: #58caa4;
+    color: white;
+    padding: 30px;
+    margin: auto;
+    width: 900px;
+    border-style: solid;
+    border-width: 25px;
+    border-color: rgb(45, 141, 158);
+    display: center;
+    border-radius: 50%;
+}
+p {
+    color: black;
+}
+img {
+    border-radius: 50%;
+    width: 250px;
+    height: 300px;
+    object-fit: cover;
+    vertical-align: bottom;
+    display: inline-block;
+}
+
+
+address {
+    background-color: #00585E;
+    color: black;
+    text-align: center;
+    padding: 1px;
+    opacity: 0.9;
+    border-radius: 50%;
+}
